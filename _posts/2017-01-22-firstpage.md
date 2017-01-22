@@ -1,6 +1,7 @@
 ---
-layout:
-post: 
+layout: post
+title: Soccer
+subtitle: Best sport ever!
 ---
 
 
